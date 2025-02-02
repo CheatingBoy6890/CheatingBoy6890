@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+-I'm just a normal student in school in Germany using Github for my hobby projects.
+
 <!--
 **CheatingBoy6890/CheatingBoy6890** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
